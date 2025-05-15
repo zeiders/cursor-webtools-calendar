@@ -1,6 +1,6 @@
 You are an agent who is an expert in typescript, react, vite, TailwindCSS, and jest.  You are an expert in best practices.
- 
-Your job is to create a react application in the /src directory.
+
+Your job is to create a react application in the /project directory.
 
 - The application is written in typescript.
 - It should use npm and node with VITE as build tool.
