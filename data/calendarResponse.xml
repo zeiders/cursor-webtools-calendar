@@ -1,0 +1,706 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<responseWS>
+    <deprecated>false</deprecated>
+    <maxPageSize>100</maxPageSize>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33518537</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Summer of AI Kickoff and Showcase</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>5/29/2025</startDate>
+        <endDate>5/29/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:30 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Siebel Center for Design and online via Zoom</location>
+        <description>&lt;div class="OutlineElement Ltr SCXW257393476 BCX0" id="isPasted"&gt;&lt;p class="Paragraph SCXW257393476 BCX0"&gt;&lt;span class="TextRun SCXW257393476 BCX0" data-contrast="none" lang="EN-US"&gt;&lt;span class="NormalTextRun SCXW257393476 BCX0"&gt;The Kick-off event will include a Gen AI showcase featuring brief demos of several AI&amp;nbsp;&lt;/span&gt;&lt;span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW257393476 BCX0"&gt;tools, and&lt;/span&gt;&lt;span class="NormalTextRun SCXW257393476 BCX0"&gt;&amp;nbsp;launch us into the "Summer of AI" filled with workshops, lectures, and panel discussions about the many aspects of this new and revolutionary technology.&lt;/span&gt;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="ListContainerWrapper SCXW257393476 BCX0"&gt;&lt;ul&gt;&lt;li class="Paragraph SCXW257393476 BCX0"&gt;&lt;span class="TextRun SCXW257393476 BCX0" data-contrast="none" lang="EN-US"&gt;&lt;span class="NormalTextRun SCXW257393476 BCX0"&gt;Discover real-world applications of generative AI&lt;/span&gt;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li class="Paragraph SCXW257393476 BCX0"&gt;&lt;span class="TextRun SCXW257393476 BCX0" data-contrast="auto" lang="EN-US" style="font-size: inherit; background-color: transparent;"&gt;&lt;span class="NormalTextRun SCXW257393476 BCX0"&gt;Connect with faculty, staff, and units working with AI across campus&lt;/span&gt;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}' style="font-size: inherit; background-color: transparent;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li class="Paragraph SCXW257393476 BCX0"&gt;&lt;span class="TextRun SCXW257393476 BCX0" data-contrast="auto" lang="EN-US" style="font-size: inherit; background-color: transparent;"&gt;&lt;span class="NormalTextRun SCXW257393476 BCX0"&gt;Learn more about the Summer of AI series&lt;/span&gt;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335551550":1,"335551620":1,"335559685":720,"335559737":0,"335559740":240,"335559991":360}' style="font-size: inherit; background-color: transparent;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335551550":1,"335551620":1,"335559685":720,"335559737":0,"335559740":240,"335559991":360}' style="font-size: inherit; background-color: transparent;"&gt;Be sure to subscribe to the&amp;nbsp;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335551550":1,"335551620":1,"335559685":720,"335559737":0,"335559740":240,"335559991":360}' style="font-size: inherit; background-color: transparent;"&gt;&lt;a href="http://go.illinois.edu/summerofai"&gt;Summer of AI newsletter&lt;/a&gt;&lt;/span&gt;&lt;span class="EOP SCXW257393476 BCX0" data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335551550":1,"335551620":1,"335559685":720,"335559737":0,"335559740":240,"335559991":360}' style="font-size: inherit; background-color: transparent;"&gt;&amp;nbsp;for updates on all activities and sessions planned for the summer.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="OutlineElement Ltr SCXW257393476 BCX0"&gt;&lt;br&gt;&lt;/div&gt;</description>
+        <speaker>CITL staff and invited guests</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>4/23/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>The Kick-off event will include a Gen AI showcase featuring brief demos of several AI tools, and launch us into the "Summer of AI" filled with workshops, lectures, and panel discussions about the many aspects of this new and revolutionary technology.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>https://go.citl.illinois.edu/SummerofAI</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519530</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>CyberScholar: Bill Cope College of Education</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/10/2025</startDate>
+        <endDate>6/10/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>William Cope</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519545</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Arista AI: Tony Zhang and Marc Thompson CITL</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/10/2025</startDate>
+        <endDate>6/10/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Tony Zhang and Marc Thompson</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519531</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Artificial Intelligence and Professional Development Panel Discussion</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/12/2025</startDate>
+        <endDate>6/12/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Kostas Yfantis</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519532</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>AI from a Digital Humanities Perspective: Mary Ton University Library</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/17/2025</startDate>
+        <endDate>6/17/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p id="isPasted"&gt;AI from a digital humanities perspective-- AI is one of many tools that influence the&amp;nbsp;&lt;span style="font-size: inherit; background-color: transparent;"&gt;ways we write, research, and teach. How can a digital humanities perspective help instructors&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;(and their students) balance ethics and innovation when choosing which tools to use for their&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;class assignments?&lt;/span&gt;&lt;/p&gt;</description>
+        <speaker>Mary Ton</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>AI from a digital humanities perspective-- AI is one of many tools that influence the ways we write, research, and teach. How can a digital humanities perspective help instructors (and their students) balance ethics and innovation when choosing which tools to use for their class assignments?</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519533</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Student Panel on GenAI: Shenika Glover CITL</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/18/2025</startDate>
+        <endDate>6/18/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Shenika Glover</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519534</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>How does generative AI aid in historical research? Robert Morrissey Department of History</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/25/2025</startDate>
+        <endDate>6/25/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p id="isPasted"&gt;This presentation showcases&amp;nbsp;&lt;span style="font-size: inherit; background-color: transparent;"&gt;workflows and use cases to leverage an AI chatbot for research tasks and project development.&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;Mindful of flaws and many challenges, I conclude that use of the chat bot for research tasks&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;often extends my productivity and saves time. It also has helped me make significant research&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;breakthroughs or connection.&lt;/span&gt;&lt;/p&gt;</description>
+        <speaker>Robert Morrissey</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>This presentation showcases workflows and use cases to leverage an AI chatbot for research tasks and project development. Mindful of flaws and many challenges, I conclude that use of the chat bot for research tasks often extends my productivity and saves time.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519537</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>AI Policy and Politics: Meicen Sun iSchool</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>6/26/2025</startDate>
+        <endDate>6/26/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Meicen Sun</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519535</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Whose AI? For whose interests? Tobi Adéwùnmí</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>7/1/2025</startDate>
+        <endDate>7/1/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p id="isPasted"&gt;Whose AI? For whose interests? What Afro-futurist animation can teach us about&amp;nbsp;&lt;span style="font-size: inherit; background-color: transparent;"&gt;decolonizing AI for Black worlds&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;This session will attempt to approach AI and AI dystopia from the margins. By centering Black&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;epistemologies and Afro-futurist aesthetics in two recent animation - Iwaju (Disney, 2024) and&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;Jurassic World: Chaos Theory (Animation Works, 2024), I call for a more inclusive design&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;thinking in developing and branding AI technologies for people of color, especially within&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;predominantly White universities and urban ecologies.&lt;/span&gt;&lt;/p&gt;</description>
+        <speaker>Olúwatóbilóba ('Tobi) Adéwùnmí</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>This session will attempt to approach AI and AI dystopia from the margins. By centering Black epistemologies and Afro-futurist aesthetics in two recent animation - Iwaju (Disney, 2024) and Jurassic World: Chaos Theory (Animation Works, 2024), I call for a more inclusive design thinking in developing and branding AI technologies for people of color, especially within predom</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519538</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Illinois Chat: Rohan Marwaha NCSA</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>7/2/2025</startDate>
+        <endDate>7/2/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p id="isPasted"&gt;llinois Chat - soon to be the official AI offering on Illinois Campus. This session will&lt;span style="font-size: inherit; background-color: transparent;"&gt;&amp;nbsp;showcase what the Illinois Chat platform is about including the use cases and future plans and will include&lt;/span&gt;&lt;span style="font-size: inherit; background-color: transparent;"&gt;&amp;nbsp;a Q&amp;amp;A and feedback session.&lt;/span&gt;&lt;/p&gt;</description>
+        <speaker>Rohan Marwaha</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>This session will showcase what the Illinois Chat platform is about including the use cases and future plans</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519541</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>AI to Boost Creativity: Tawnya Means Gies College of Business</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>7/15/2025</startDate>
+        <endDate>7/15/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Tawnya Means</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519543</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Talking AI: Hope, Hesitations, and Higher Ed Panel Discussion</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>7/16/2025</startDate>
+        <endDate>7/16/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Mike Yau, Michael Curtain, Jake Metz</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519544</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Writing in the Age of AI Panel Discussion</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>true</dateDisplay>
+        <startDate>7/17/2025</startDate>
+        <endDate>7/17/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>2:00 pm</startTime>
+        <endTime>3:00 pm</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p&gt;Session details coming soon.&lt;/p&gt;</description>
+        <speaker>Panel Discussion</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Robert Baird</contactName>
+        <contactEmail>r-baird@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+    <publicEventWS>
+        <calendarId>8230</calendarId>
+        <calendarName>Summer of AI</calendarName>
+        <eventId>33519546</eventId>
+        <recurrence>false</recurrence>
+        <recurrenceId>0</recurrenceId>
+        <originatingCalendarId>8230</originatingCalendarId>
+        <originatingCalendarName>Summer of AI</originatingCalendarName>
+        <title>Research Ethics and Generative AI: Patty Jones OVCRI</title>
+        <titleURL></titleURL>
+        <eventType>Informational</eventType>
+        <sponsor>The Center for Innovation in Teaching &amp; Learning</sponsor>
+        <dateDisplay>false</dateDisplay>
+        <startDate>7/31/2025</startDate>
+        <endDate>7/31/2025</endDate>
+        <timeType>START_AND_END_TIME</timeType>
+        <startTime>10:00 am</startTime>
+        <endTime>11:00 am</endTime>
+        <endTimeLabel></endTimeLabel>
+        <inPersonEvent>true</inPersonEvent>
+        <location>Armory room 156 and online via Zoom</location>
+        <description>&lt;p id="isPasted"&gt;Research Ethics and Generative AI: Best practices and ethical guidelines for using&amp;nbsp;&lt;span style="font-size: inherit; background-color: transparent;"&gt;generative AI in research projects&lt;/span&gt;&lt;/p&gt;</description>
+        <speaker>Patty Jones</speaker>
+        <registrationLabel></registrationLabel>
+        <registrationURL></registrationURL>
+        <contactName>Przemek Bosak</contactName>
+        <contactEmail>pbosak2@illinois.edu</contactEmail>
+        <contactPhone></contactPhone>
+        <costFree>true</costFree>
+        <cost></cost>
+        <createdBy>jwentwor@illinois.edu</createdBy>
+        <createdDate>5/14/2025</createdDate>
+        <editedBy></editedBy>
+        <editedDate>5/14/2025</editedDate>
+        <summary>Session details coming soon.</summary>
+        <audienceFacultyStaff>false</audienceFacultyStaff>
+        <audienceStudents>false</audienceStudents>
+        <audiencePublic>false</audiencePublic>
+        <audienceAlumni>false</audienceAlumni>
+        <audienceParents>false</audienceParents>
+        <shareWithUrbanaEventsInChicagoArea>false</shareWithUrbanaEventsInChicagoArea>
+        <shareWithResearch>false</shareWithResearch>
+        <shareWithSpeakers>false</shareWithSpeakers>
+        <shareWithIllinoisMobileApp>true</shareWithIllinoisMobileApp>
+        <thumbImageUploaded>false</thumbImageUploaded>
+        <largeImageUploaded>false</largeImageUploaded>
+        <largeImageSize>0</largeImageSize>
+        <virtualEvent>true</virtualEvent>
+        <virtualEventURL>http://go.citl.illinois.edu/summerofai</virtualEventURL>
+    </publicEventWS>
+</responseWS>

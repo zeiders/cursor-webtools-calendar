@@ -1,0 +1,136 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+            xmlns:jxb="https://jakarta.ee/xml/ns/jaxb" 
+            jxb:version="3.0" >
+
+	<!-- All string fields are considered text unless specified -->
+
+	<xsd:annotation>
+		<xsd:documentation xml:lang="en">CalendarWS</xsd:documentation>
+		<xsd:appinfo>
+			<jxb:schemaBindings>
+				<jxb:package name="edu.illinois.webservices.calendarws16.bean" />
+			</jxb:schemaBindings>
+		</xsd:appinfo>
+	</xsd:annotation>
+				
+	<xsd:element name="responseWS">
+		<xsd:complexType>
+			<xsd:sequence>
+                <xsd:element name="deprecated" type="xsd:boolean" />
+                <xsd:element name="endOfServiceDate" type="xsd:string" />
+                <xsd:element name="maxPageSize" type="xsd:int" />
+				<xsd:element name="publicEventWS" type="PublicEventWS" minOccurs="0" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name="PublicEventWS">
+		<xsd:sequence>
+            <xsd:element name="calendarId" type="xsd:int" />
+            <xsd:element name="calendarName" type="xsd:string" />
+
+            <xsd:element name="eventId" type="xsd:int" />
+            <xsd:element name="recurrence" type="xsd:boolean" />
+            <!-- recurrenceId - if 0 then no recurrence -->
+            <xsd:element name="recurrenceId" type="xsd:int" />
+            <xsd:element name="originatingCalendarId" type="xsd:int" />
+            <xsd:element name="originatingCalendarName" type="xsd:string" />
+            <xsd:element name="title" type="xsd:string" minOccurs="0" />
+            <xsd:element name="titleURL" type="xsd:string" minOccurs="0" />
+            <xsd:element name="eventType" type="xsd:string" minOccurs="0" />
+            <xsd:element name="topic" type="Topic" minOccurs="0" maxOccurs="unbounded" />
+            <xsd:element name="sponsor" type="xsd:string" minOccurs="0" />
+            <xsd:element name="dateDisplay" type="xsd:boolean" />
+            <!-- startDate - M/D/YYYY -->
+            <xsd:element name="startDate" type="xsd:string" minOccurs="0" />
+            <!-- endDate - M/D/YYYY -->
+            <xsd:element name="endDate" type="xsd:string" minOccurs="0" />
+            <!-- timeType - NONE, ALL_DAY, START_TIME_ONLY, START_AND_END_TIME -->
+            <xsd:element name="timeType" type="xsd:string" minOccurs="0" />
+            <!-- startTime - H:MM am -->
+            <xsd:element name="startTime" type="xsd:string" minOccurs="0" />
+            <!-- endTime - H:MM am -->
+            <xsd:element name="endTime" type="xsd:string" minOccurs="0" />
+            <xsd:element name="endTimeLabel" type="xsd:string" minOccurs="0" />
+            <xsd:element name="inPersonEvent" type="xsd:boolean" />
+            <xsd:element name="location" type="xsd:string" minOccurs="0" />
+            <!-- the description field is the only HTML field -->
+            <xsd:element name="description" type="xsd:string" minOccurs="0" />
+            <xsd:element name="speaker" type="xsd:string" minOccurs="0" />
+            <xsd:element name="registrationLabel" type="xsd:string" minOccurs="0" />
+            <xsd:element name="registrationURL" type="xsd:string" minOccurs="0" />
+            <xsd:element name="contactName" type="xsd:string" minOccurs="0" />
+            <xsd:element name="contactEmail" type="xsd:string" minOccurs="0" />
+            <xsd:element name="contactPhone" type="xsd:string" minOccurs="0" />
+            <!-- add for release on 5/12/2021 -->
+            <xsd:element name="costFree" type="xsd:boolean" />
+            <xsd:element name="cost" type="xsd:string" minOccurs="0" />
+            <xsd:element name="createdBy" type="xsd:string" minOccurs="0" />
+            <xsd:element name="createdDate" type="xsd:string" minOccurs="0" />
+            <xsd:element name="editedBy" type="xsd:string" minOccurs="0" />
+            <xsd:element name="editedDate" type="xsd:string" minOccurs="0" />
+			
+            <xsd:element name="summary" type="xsd:string" minOccurs="0" />
+            
+            <xsd:element name="audienceFacultyStaff" type="xsd:boolean" />
+            <xsd:element name="audienceStudents" type="xsd:boolean" />
+            <xsd:element name="audiencePublic" type="xsd:boolean" />
+            <xsd:element name="audienceAlumni" type="xsd:boolean" />
+            <xsd:element name="audienceParents" type="xsd:boolean" />
+
+            <xsd:element name="shareWithUrbanaEventsInChicagoArea" type="xsd:boolean" />
+            <xsd:element name="shareWithResearch" type="xsd:boolean" />
+            <xsd:element name="shareWithSpeakers" type="xsd:boolean" />
+            <xsd:element name="shareWithIllinoisMobileApp" type="xsd:boolean" />
+            
+            <xsd:element name="thumbImageUploaded" type="xsd:boolean" />
+            <xsd:element name="largeImageUploaded" type="xsd:boolean" />
+            <xsd:element name="largeImageSize" type="xsd:int" />
+            
+            <xsd:element name="virtualEvent" type="xsd:boolean" />
+            <xsd:element name="virtualEventURL" type="xsd:string" minOccurs="0"/>
+            
+			<!-- The following are anticipated changes for a later schema release.  
+			     These changes will replace the field above called "sponsor" 
+				
+				 sponsorCustom is a boolean flag 
+			     when true the sponsorCustomName field is required 
+			          and the sponsorURL field can be populated
+			     when false the sponsorCustomName field will not be present.
+			          The campus fields will be required.
+			          The unit is optional.
+			          The department is optional but if provided it must have a unit provided.
+			          The sponsor URL should be provided for campus, unit and departments.
+
+				<xsd:element name="sponsorCustom" type="xsd:boolean" />
+				<xsd:element name="sponsorCustomName" type="xsd:string" minOccurs="0" />
+				
+				<xsd:element name="sponsorCampusId" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorCampusName" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorUnitId" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorUnitName" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorDepartmentId" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorDepartmentName" type="xsd:string" minOccurs="0" />
+				<xsd:element name="sponsorURL" type="xsd:string" minOccurs="0" />
+			-->
+			
+			<!-- The following are anticipated changes for a later schema release.
+				 These changes will replace the field above called "location".
+			 
+				<xsd:element name="locationName" type="xsd:string" minOccurs="0" />
+				<xsd:element name="locationURL" type="xsd:string" minOccurs="0" />
+			-->
+			
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<xsd:complexType name="Topic">
+		<xsd:sequence>
+			<xsd:element name="id" type="xsd:int" />
+			<xsd:element name="name" type="xsd:string" />
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>
+
