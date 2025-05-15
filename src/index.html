@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calendar Events</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div id="calendar-root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // This allows the component to be initialized with custom configuration
+        window.initCalendarEvents = function(config) {
+          // Configuration can be accessed by the app through a global variable
+          window.calendarConfig = config || {};
+        };
+      });
+    </script>
+  </body>
+</html>
